@@ -47,4 +47,4 @@
 </p>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 <a href="https://www.odoo.com/" target="_blank" rel="noreferrer"> <img src="assets/odoo.svg" alt="odoo" width="40" height="40"/> </a>
-<a href="https://filamentphp.com/" target="_blank" rel="noreferrer"> <img src="assets/filament.svg" alt="filament" width="40" height="40"/> </a>
+<a href="https://filamentphp.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQohd7f381KOfLWMLw4SFlE9o-xPvns152dyA&s" alt="filament" width="40" height="40"/> </a>
